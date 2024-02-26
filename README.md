@@ -9,8 +9,9 @@ Puis elle fusionne les intervalles qui se chevauchent s'il y en a et renvoie un 
 
 ## Question 2
 
-Lancer le fichier php.
+Lancer le fichier php et observer les resultats en console.
 
+```php globalisTest.php ```
 
 ## Question 3
 
